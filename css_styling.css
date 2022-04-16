@@ -1,0 +1,40 @@
+p{
+    color: red;
+  }
+  
+  .blue{
+    color: blue;
+  }
+  
+  .ol1{
+    font-family: Verdana;
+  }
+  
+  .ol2{
+    border: 2px solid powderblue;
+  }
+  
+  .ol3{
+    padding: 10px;
+  
+  }
+  
+  .ol4{
+    margin: 20px;
+  }
+  
+  .ul1{
+    display: inline-block;
+  }
+  
+  .ul2{
+    width: 50px;
+  }
+  
+  .ul3{
+    float: right;
+  }
+  
+  .ul4{
+    border: 7px dotted rgb(217, 255, 192);
+  }
